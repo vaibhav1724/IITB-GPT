@@ -7,4 +7,4 @@ Run the API using python main.py <br>
 Run the web app using streamlit run ui.py <br>
 Now visit localhost:8501 <br>
 # Demo
-
+![alt text](https://github.com/vaibhav1724/IITB-GPT/blob/main/assets/result.png)
