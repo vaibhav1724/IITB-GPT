@@ -1,5 +1,5 @@
 # IITB-GPT
-This prototype is for a ChatGPT-like AI assistant for the students at IIT Bombay. It can help students find information more easily and help them in day to day tasks such as getting previous year question papers for a particular course, getting reviews about a particular course, seeing who is teaching a particular course, and many more things!
+This prototype is designed as an AI assistant tailored for IIT Bombay students, aiming to streamline the process of accessing information and assisting with everyday tasks. The prime focus of this prototype is easily accessing information about the institution's rules and regulations, simplifying their search for essential guidelines and policies.
 # Running the application
 NOTE: You may choose to create a virtual environment. <br>
 Install the dependencies using pip install -r requirements.txt <br>
